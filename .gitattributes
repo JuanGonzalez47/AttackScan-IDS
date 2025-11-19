@@ -2,3 +2,4 @@ data/bronze/DoS[[:space:]]TCP[[:space:]]Flood.csv filter=lfs diff=lfs merge=lfs 
 data/bronze/Recon[[:space:]]Port[[:space:]]Scan.csv filter=lfs diff=lfs merge=lfs -text
 data/bronze/MQTT[[:space:]]DDoS[[:space:]]Publish[[:space:]]Flood.csv filter=lfs diff=lfs merge=lfs -text
 data/bronze/MQTT[[:space:]]DoS[[:space:]]Connect[[:space:]]Flood.csv filter=lfs diff=lfs merge=lfs -text
+data/silver/*.csv filter=lfs diff=lfs merge=lfs -text

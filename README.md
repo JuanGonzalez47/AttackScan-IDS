@@ -7,6 +7,13 @@ Intrusion Detection System for IoT Networks using Machine Learning
 ## Description
 AttackScan-IDS is a complete pipeline for automatic detection of attacks in IoT network traffic. It includes data cleaning, exploratory analysis, preprocessing, modeling, and interactive visualization in a Streamlit dashboard.
 
+---
+
+## Project demonstration
+
+https://github.com/user-attachments/assets/1589b980-39e8-4109-90dd-985aeeba826f
+
+---
 ## Project Structure
 
 ```
@@ -82,7 +89,7 @@ AttackScan-IDS is a complete pipeline for automatic detection of attacks in IoT 
 
 ## Online Prediction Example
 
-In the prediction tab, paste a JSON like:
+In the prediction tab, paste a JSON like (In the repository also have a .md with examples):
 ```json
 {
   "Src Port": 52344,
